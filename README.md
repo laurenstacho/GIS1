@@ -11,6 +11,8 @@ If you are a student using these materials to learn GIS on your own, "Welcome!" 
 For anyone using these materials, please feel free to reach out to me (lstachowia@ewu.edu) at any time if there is something you notice that is missing, broken, or incorrect! This course prep is the current edition of a continuously updated and modified intro GIS course prep I have used over many years. Any way I can improve this course for future students is a win for me, so outside input is much appreciated. 
 
 Cheers and happy mapping!
+
 Live long and prosper,
+
 Lauren
 
